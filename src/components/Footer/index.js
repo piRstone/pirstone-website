@@ -5,7 +5,7 @@ import "./footer.css";
 function Footer() {
   const year = new Date().getFullYear();
   return (
-    <footer>
+    <footer className="text-center text-md-left mt-5 mt-md-0">
       <p>
         <span>© piRstone {year}</span>
         <a

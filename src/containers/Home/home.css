@@ -52,3 +52,17 @@
 .store-badge {
   height: 40px;
 }
+
+@media screen and (max-width: 768px) {
+  .box-title {
+    font-size: 1.7rem;
+  }
+
+  .box-text {
+    font-size: 1rem;
+  }
+
+  .store-badge {
+    height: 30px;
+  }
+}

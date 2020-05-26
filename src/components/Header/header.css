@@ -1,7 +1,7 @@
 .header-title {
   display: inline;
   font-weight: bold;
-  font-size: 80px;
+  font-size: 5rem;
   background: linear-gradient(90deg, #4c37a1, #0097ec);
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14,4 +14,16 @@
 .language:hover {
   color: var(--grey1);
   text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+  .header-title {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .header-title {
+    font-size: 2rem;
+  }
 }

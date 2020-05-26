@@ -11,7 +11,7 @@ function Header() {
   }
 
   return (
-    <header className="d-flex flex-row align-items-center justify-content-between">
+    <header className="d-flex flex-row align-items-center justify-content-between mb-5 mb-md-0">
       <p className="header-title">piRstone</p>
       <div>
         <a href="#" onClick={changeLanguage} className="language">

@@ -12,10 +12,10 @@ function Home() {
   const { t } = useTranslation();
   return (
     <div className="row">
-      <div className="col-12 col-md-6">
+      <div className="col-8 col-md-6 mx-auto mx-md-0">
         <div className="box box-eatuntil">
           <div className="row h-100">
-            <div className="col-6 d-flex flex-column align-items-center text-center mt-3 pl-4">
+            <div className="col-12 col-md-6 d-flex flex-column align-items-center text-center mt-3 pl-4">
               <h4 className="box-title">Eat Until</h4>
               <p className="box-text">{t("home:euText")}</p>
               <img
@@ -24,7 +24,7 @@ function Home() {
                 alt="Eat Until logo"
               />
             </div>
-            <div className="col-6 box-screen box-screen-eu"></div>
+            <div className="d-none d-md-block col-6 box-screen box-screen-eu"></div>
           </div>
         </div>
         <div className="d-flex flex-row align-items-center justify-content-center mt-2">
@@ -41,10 +41,10 @@ function Home() {
           />
         </div>
       </div>
-      <div className="col-12 col-md-6">
+      <div className="col-8 col-md-6 mx-auto mx-md-0 mt-5 mt-md-0">
         <div className="box box-bql">
           <div className="row h-100">
-            <div className="col-6 d-flex flex-column align-items-center text-center mt-3 pl-4">
+            <div className="col-12 col-md-6 d-flex flex-column align-items-center text-center mt-3 pl-4">
               <h4 className="box-title">Bicloo Quick Look</h4>
               <p className="box-text">{t("home:bqlText")}</p>
               <img
@@ -53,7 +53,7 @@ function Home() {
                 alt="Bicloo Quick Look logo"
               />
             </div>
-            <div className="col-6 box-screen box-screen-bql"></div>
+            <div className="d-none d-md-block col-6 box-screen box-screen-bql"></div>
           </div>
         </div>
         <div className="d-flex flex-row justify-content-center mt-2">
