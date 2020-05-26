@@ -6,3 +6,12 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.language {
+  color: var(--grey1);
+}
+
+.language:hover {
+  color: var(--grey1);
+  text-decoration: underline;
+}

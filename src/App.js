@@ -1,14 +1,18 @@
-import React from 'react';
-import './App.css';
+import React from "react";
 
-import Home from './containers/Home';
-import Footer from './components/Footer';
+import Header from "./components/Header";
+import Home from "./containers/Home";
+import Footer from "./components/Footer";
+import './app.css';
 
 function App() {
   return (
     <div className="container">
-      <Home />
-      <Footer />
+      <div className="wrapper d-flex flex-column justify-content-between">
+        <Header />
+        <Home />
+        <Footer />
+      </div>
     </div>
   );
 }

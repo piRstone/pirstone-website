@@ -36,9 +36,19 @@
 }
 
 .box-screen-eu {
-  background-image: url('./eu-screen-light.png');
+  background-image: url('./img/eu-screen-light.png');
 }
 
 .box-screen-bql {
-  background-image: url('./bql-screen-light.png');
+  background-image: url('./img/bql-screen-light.png');
+}
+
+.soon {
+  color: var(--grey1);
+  margin: 0;
+  margin-right: 0.5em;
+}
+
+.store-badge {
+  height: 40px;
 }

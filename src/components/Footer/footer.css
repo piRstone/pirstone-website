@@ -1,5 +1,6 @@
 footer p {
   color: var(--grey2);
+  font-size: 0.9rem;
 }
 
 footer a {
