@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/pirstone-website/static/css/main.ab005a54.chunk.css",
-    "main.js": "/pirstone-website/static/js/main.bf4a8a92.chunk.js",
-    "main.js.map": "/pirstone-website/static/js/main.bf4a8a92.chunk.js.map",
-    "runtime-main.js": "/pirstone-website/static/js/runtime-main.78f4b2b2.js",
-    "runtime-main.js.map": "/pirstone-website/static/js/runtime-main.78f4b2b2.js.map",
-    "static/js/2.d78405e8.chunk.js": "/pirstone-website/static/js/2.d78405e8.chunk.js",
-    "static/js/2.d78405e8.chunk.js.map": "/pirstone-website/static/js/2.d78405e8.chunk.js.map",
-    "index.html": "/pirstone-website/index.html",
-    "precache-manifest.0318391f7d2f7248a5baeda2e44ff774.js": "/pirstone-website/precache-manifest.0318391f7d2f7248a5baeda2e44ff774.js",
-    "service-worker.js": "/pirstone-website/service-worker.js",
-    "static/css/main.ab005a54.chunk.css.map": "/pirstone-website/static/css/main.ab005a54.chunk.css.map",
-    "static/js/2.d78405e8.chunk.js.LICENSE.txt": "/pirstone-website/static/js/2.d78405e8.chunk.js.LICENSE.txt",
-    "static/media/app-store-badge.png": "/pirstone-website/static/media/app-store-badge.776d7f72.png",
-    "static/media/bql-logo.png": "/pirstone-website/static/media/bql-logo.d9fcc1bd.png",
-    "static/media/home.css": "/pirstone-website/static/media/eu-screen-light.679d8ca2.png",
-    "static/media/chrome-webstore-badge.png": "/pirstone-website/static/media/chrome-webstore-badge.d1990e04.png",
-    "static/media/eu-logo.png": "/pirstone-website/static/media/eu-logo.bd6d52e0.png"
+    "main.css": "/static/css/main.0e8b99d9.chunk.css",
+    "main.js": "/static/js/main.e0ba6fda.chunk.js",
+    "main.js.map": "/static/js/main.e0ba6fda.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ace7866.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ace7866.js.map",
+    "static/js/2.d78405e8.chunk.js": "/static/js/2.d78405e8.chunk.js",
+    "static/js/2.d78405e8.chunk.js.map": "/static/js/2.d78405e8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9601c01e427f4f1af270fbb8a43bed94.js": "/precache-manifest.9601c01e427f4f1af270fbb8a43bed94.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0e8b99d9.chunk.css.map": "/static/css/main.0e8b99d9.chunk.css.map",
+    "static/js/2.d78405e8.chunk.js.LICENSE.txt": "/static/js/2.d78405e8.chunk.js.LICENSE.txt",
+    "static/media/app-store-badge.png": "/static/media/app-store-badge.776d7f72.png",
+    "static/media/bql-logo.png": "/static/media/bql-logo.d9fcc1bd.png",
+    "static/media/home.css": "/static/media/eu-screen-light.679d8ca2.png",
+    "static/media/chrome-webstore-badge.png": "/static/media/chrome-webstore-badge.d1990e04.png",
+    "static/media/eu-logo.png": "/static/media/eu-logo.bd6d52e0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.78f4b2b2.js",
+    "static/js/runtime-main.0ace7866.js",
     "static/js/2.d78405e8.chunk.js",
-    "static/css/main.ab005a54.chunk.css",
-    "static/js/main.bf4a8a92.chunk.js"
+    "static/css/main.0e8b99d9.chunk.css",
+    "static/js/main.e0ba6fda.chunk.js"
   ]
 }
