@@ -1,0 +1,8 @@
+.header-title {
+  display: inline;
+  font-weight: bold;
+  font-size: 80px;
+  background: linear-gradient(90deg, #4c37a1, #0097ec);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

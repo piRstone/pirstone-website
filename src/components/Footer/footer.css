@@ -1,0 +1,13 @@
+footer p {
+  color: var(--grey2);
+}
+
+footer a {
+  color: var(--grey2);
+  text-decoration: underline;
+  margin: 0 1em;
+}
+
+footer a:hover {
+  color: var(--grey1);
+}

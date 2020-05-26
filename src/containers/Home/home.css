@@ -1,0 +1,44 @@
+.box {
+  height: 300px;
+  width: 100%;
+  border-radius: 3em;
+  box-shadow: 0 10px 20px rgba(0,0,0,.1);
+  color: #fff;
+  overflow: hidden;
+}
+
+.box.box-eatuntil {
+  background-color: #18D873;
+}
+
+.box.box-bql {
+  background-color: #E06417;
+}
+
+.box-title {
+  font-size: 2.1rem;
+  font-weight: bold;
+}
+
+.box-text {
+  font-size: 1.2rem;
+}
+
+.box-logo {
+  height: 6em;
+  margin-top: auto;
+}
+
+.box-screen {
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.box-screen-eu {
+  background-image: url('./eu-screen-light.png');
+}
+
+.box-screen-bql {
+  background-image: url('./bql-screen-light.png');
+}
