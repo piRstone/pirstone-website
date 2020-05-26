@@ -2,7 +2,7 @@
   "name": "pirstone-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pirstone.github.io/pirstone-website",
+  "homepage": "https://pirstone.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
