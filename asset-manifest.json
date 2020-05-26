@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pirstone-website/static/css/main.06387a59.chunk.css",
+    "main.js": "/pirstone-website/static/js/main.a291efc2.chunk.js",
+    "main.js.map": "/pirstone-website/static/js/main.a291efc2.chunk.js.map",
+    "runtime-main.js": "/pirstone-website/static/js/runtime-main.78f4b2b2.js",
+    "runtime-main.js.map": "/pirstone-website/static/js/runtime-main.78f4b2b2.js.map",
+    "static/js/2.d78405e8.chunk.js": "/pirstone-website/static/js/2.d78405e8.chunk.js",
+    "static/js/2.d78405e8.chunk.js.map": "/pirstone-website/static/js/2.d78405e8.chunk.js.map",
+    "index.html": "/pirstone-website/index.html",
+    "precache-manifest.2e00f3e491084fa5f0ef33f5d71b758e.js": "/pirstone-website/precache-manifest.2e00f3e491084fa5f0ef33f5d71b758e.js",
+    "service-worker.js": "/pirstone-website/service-worker.js",
+    "static/css/main.06387a59.chunk.css.map": "/pirstone-website/static/css/main.06387a59.chunk.css.map",
+    "static/js/2.d78405e8.chunk.js.LICENSE.txt": "/pirstone-website/static/js/2.d78405e8.chunk.js.LICENSE.txt",
+    "static/media/app-store-badge.png": "/pirstone-website/static/media/app-store-badge.776d7f72.png",
+    "static/media/bql-logo.png": "/pirstone-website/static/media/bql-logo.d9fcc1bd.png",
+    "static/media/home.css": "/pirstone-website/static/media/eu-screen-light.679d8ca2.png",
+    "static/media/chrome-webstore-badge.png": "/pirstone-website/static/media/chrome-webstore-badge.d1990e04.png",
+    "static/media/eu-logo.png": "/pirstone-website/static/media/eu-logo.bd6d52e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f4b2b2.js",
+    "static/js/2.d78405e8.chunk.js",
+    "static/css/main.06387a59.chunk.css",
+    "static/js/main.a291efc2.chunk.js"
+  ]
+}
