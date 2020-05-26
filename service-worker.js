@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pirstone-website/precache-manifest.2e00f3e491084fa5f0ef33f5d71b758e.js"
+  "/pirstone-website/precache-manifest.0318391f7d2f7248a5baeda2e44ff774.js"
 );
 
 self.addEventListener('message', (event) => {

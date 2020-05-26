@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "544a372d0907b4e2dfd8c80538da43cf",
+    "revision": "8cba816f312bd38612a903bf975441fd",
     "url": "/pirstone-website/index.html"
   },
   {
-    "revision": "34ef2c4f1a649a15f9a6",
-    "url": "/pirstone-website/static/css/main.06387a59.chunk.css"
+    "revision": "ca64ec7ccf80c7752112",
+    "url": "/pirstone-website/static/css/main.ab005a54.chunk.css"
   },
   {
     "revision": "b61d48ac23502889ac61",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pirstone-website/static/js/2.d78405e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34ef2c4f1a649a15f9a6",
-    "url": "/pirstone-website/static/js/main.a291efc2.chunk.js"
+    "revision": "ca64ec7ccf80c7752112",
+    "url": "/pirstone-website/static/js/main.bf4a8a92.chunk.js"
   },
   {
     "revision": "ba039c66349685cbb854",
