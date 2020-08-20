@@ -1,18 +1,18 @@
 .box {
   height: 300px;
   width: 100%;
-  border-radius: 3em;
-  box-shadow: 0 10px 20px rgba(0,0,0,.1);
+  border-radius: 1em;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
   color: #fff;
   overflow: hidden;
 }
 
 .box.box-eatuntil {
-  background-color: #18D873;
+  background-color: #18d873;
 }
 
 .box.box-bql {
-  background-color: #E06417;
+  background-color: #e06417;
 }
 
 .box-title {
@@ -25,8 +25,11 @@
 }
 
 .box-logo {
-  height: 6em;
+  height: 5em;
   margin-top: auto;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  margin-bottom: 1rem;
 }
 
 .box-screen {
@@ -36,11 +39,11 @@
 }
 
 .box-screen-eu {
-  background-image: url('./img/eu-screen-light.png');
+  background-image: url("./img/eu-screen-light.png");
 }
 
 .box-screen-bql {
-  background-image: url('./img/bql-screen-light.png');
+  background-image: url("./img/bql-screen-light.png");
 }
 
 .soon {
