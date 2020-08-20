@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e8b99d9.chunk.css",
-    "main.js": "/static/js/main.e0ba6fda.chunk.js",
-    "main.js.map": "/static/js/main.e0ba6fda.chunk.js.map",
+    "main.css": "/static/css/main.528fb8f5.chunk.css",
+    "main.js": "/static/js/main.92128e5e.chunk.js",
+    "main.js.map": "/static/js/main.92128e5e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0ace7866.js",
     "runtime-main.js.map": "/static/js/runtime-main.0ace7866.js.map",
-    "static/js/2.d78405e8.chunk.js": "/static/js/2.d78405e8.chunk.js",
-    "static/js/2.d78405e8.chunk.js.map": "/static/js/2.d78405e8.chunk.js.map",
+    "static/js/2.346fbb0b.chunk.js": "/static/js/2.346fbb0b.chunk.js",
+    "static/js/2.346fbb0b.chunk.js.map": "/static/js/2.346fbb0b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9601c01e427f4f1af270fbb8a43bed94.js": "/precache-manifest.9601c01e427f4f1af270fbb8a43bed94.js",
+    "precache-manifest.50d5652325e40e734627334badd10547.js": "/precache-manifest.50d5652325e40e734627334badd10547.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0e8b99d9.chunk.css.map": "/static/css/main.0e8b99d9.chunk.css.map",
-    "static/js/2.d78405e8.chunk.js.LICENSE.txt": "/static/js/2.d78405e8.chunk.js.LICENSE.txt",
+    "static/css/main.528fb8f5.chunk.css.map": "/static/css/main.528fb8f5.chunk.css.map",
+    "static/js/2.346fbb0b.chunk.js.LICENSE.txt": "/static/js/2.346fbb0b.chunk.js.LICENSE.txt",
     "static/media/app-store-badge.png": "/static/media/app-store-badge.776d7f72.png",
-    "static/media/bql-logo.png": "/static/media/bql-logo.d9fcc1bd.png",
+    "static/media/bql-logo.png": "/static/media/bql-logo.13d8035f.png",
     "static/media/home.css": "/static/media/eu-screen-light.679d8ca2.png",
     "static/media/chrome-webstore-badge.png": "/static/media/chrome-webstore-badge.d1990e04.png",
-    "static/media/eu-logo.png": "/static/media/eu-logo.bd6d52e0.png"
+    "static/media/eatuntil-logo.svg": "/static/media/eatuntil-logo.1a49bac7.svg",
+    "static/media/eu-logo.png": "/static/media/eu-logo.e16e66ef.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0ace7866.js",
-    "static/js/2.d78405e8.chunk.js",
-    "static/css/main.0e8b99d9.chunk.css",
-    "static/js/main.e0ba6fda.chunk.js"
+    "static/js/2.346fbb0b.chunk.js",
+    "static/css/main.528fb8f5.chunk.css",
+    "static/js/main.92128e5e.chunk.js"
   ]
 }
