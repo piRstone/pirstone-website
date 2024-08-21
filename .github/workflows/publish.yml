@@ -24,6 +24,9 @@ jobs:
       - name: Setup Node.js ⚙️ - Cache dependencies ⚡ - Install dependencies 🔧
         uses: ./.github/workflows/setup-node
 
+      ################################################################################################
+      # Disabled for now, as the build is not working due to the MDX configuration in next.config.js #
+      ################################################################################################
       # - name: Setup Pages ⚙️
       #   uses: actions/configure-pages@v4
       #   with:
