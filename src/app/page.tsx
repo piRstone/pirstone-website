@@ -30,7 +30,6 @@ export default function Home() {
                 alt="Eat Until Screen"
                 width={832}
                 height={1200}
-                objectFit="contain"
                 priority
               />
             </div>
@@ -80,19 +79,37 @@ export default function Home() {
                 alt="Bicloo Quick Look Screen"
                 width={832}
                 height={1200}
-                objectFit="contain"
                 priority
               />
             </div>
           </div>
           <div className="flex flex-row items-center justify-center gap-2">
-            <Image
-              src="/chrome-webstore-badge.png"
-              alt="Chrome Web Store Badge"
-              width={272}
-              height={80}
-              className="h-12 w-auto"
-            />
+            <a
+              href="https://chromewebstore.google.com/detail/bicloo-quick-look/flnefplpgicfiidnngabfhelbljjolag?hl=fr"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <Image
+                src="/chrome-webstore-badge.png"
+                alt="Chrome Web Store Badge"
+                width={272}
+                height={80}
+                className="h-12 w-auto"
+              />
+            </a>
+            <a
+              href="https://addons.mozilla.org/fr/firefox/addon/bicloo-quick-look/"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <Image
+                src="/firefox-get-the-addon.png"
+                alt="Chrome Web Store Badge"
+                width={172}
+                height={60}
+                className="h-12 w-auto"
+              />
+            </a>
           </div>
         </div>
       </div>
